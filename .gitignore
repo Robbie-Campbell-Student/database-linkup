@@ -1,0 +1,9 @@
+.cache
+.docker
+.npm
+.theia
+.yarn
+.bash
+.config
+
+app.yaml

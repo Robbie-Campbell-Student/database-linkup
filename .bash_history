@@ -90,3 +90,7 @@ gcloud app browse
 git add .
 cd ..
 git init
+git add .
+git commit -m ":rocket: initial commit :rocket:"
+touch .gitignore
+gedit .gitignore
